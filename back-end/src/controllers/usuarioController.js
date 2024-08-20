@@ -1,0 +1,1 @@
+const UserLogModel = require('../models/UserLogModel');
